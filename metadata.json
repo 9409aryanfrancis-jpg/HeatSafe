@@ -1,0 +1,10 @@
+{
+  "name": "HeatSafe Routes - Tamil Nadu Gig Worker Heat Safety & Care Navigation",
+  "description": "Multilingual heat-safe routing and care network for urban gig workers in Tamil Nadu, featuring real-time alerts for toilets, clean drinking water, shade, and AC rest stops.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
